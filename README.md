@@ -1,5 +1,7 @@
 # Data Work Examples
 
+Here are several data analysis projects selected from past coursework and side projects. Each project contains a list of keywords and a short description on the purpose of the project. To optimize space, corresponding data are not included in this repository.
+
 ## Network Performance Analysis
 
 *Keywords: python, pandas, visualization*
@@ -22,7 +24,7 @@ Evaluate the effect of an interface improvement on user activity for Yelp's mobi
 
 *Keywords: quantitative finance, python*
 
-Analysis the excessive return and volatility of investment strategy 
+Analysis the rate of return and volatility of investment strategy based on LTCM (long-term capital management) for a given set of financial securities.
 
 
 
